@@ -1,1 +1,15 @@
+MVP - ANTENADOS
+-
 
+Objetivo do MVP
+Entregar a primeira versão funcional do dashboard, permitindo a visualização inicial dos indicadores essenciais.
+
+📝 Descrição da Solução
+Construção da base inicial e criação dos primeiros elementos de interface.
+
+**Funcionalidades incluídas:**
+Estrutura base do painel
+Visualização inicial dos dados
+Conexão preliminar com as bases utilizadas
+**Limitações:** filtros limitados.
+**Escopo reduzido:** foco apenas na criação da fundação do dashboard, sem foco direto na área da aeronáutica.
